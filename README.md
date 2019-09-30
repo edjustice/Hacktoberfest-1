@@ -39,7 +39,9 @@ by checking our `Help Wanted` issues and creating [pull requests](https://github
 If you liked working on this project, please share this project as much 
 as you can and star this project to help as many people in opensource as you can.
 
-### Steps to Make Changes using GIT!
+<br/>
+
+# Steps to Make Changes and contribute using GIT!
 
 ###### To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
 
@@ -64,7 +66,6 @@ git clone https://github.com/your-username/Hacktoberfest.git
 
 ###### Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
-![screenshot 154](https://user-images.githubusercontent.com/37223446/47234964-240bc700-d3f5-11e8-9837-50685ad44382.png)
 
 ##### // git branch new-branch //
 
